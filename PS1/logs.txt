@@ -1,0 +1,14 @@
+MAC
+---started at :
+2020-01-26 17:23:28.129397
+
+List blobs in the container
+	 Blob name: High_data_public.csv
+	 Blob name: meter-readings-small.csv
+	 Blob name: plugshare-small.csv
+	 Blob name: true-sentiments.csv
+
+Downloading blob to /Users/MAC/Desktop/meter-readings-small_DOWNLOADED.csv
+Sample finished downloading. The application will exit.
+---completed at :
+2020-01-26 17:23:29.595701
